@@ -1,0 +1,9 @@
+# Gonna need a few things for this all to work
+ffmpeg-python
+numpy
+pydub
+termcolor
+youtube-dl
+
+matplotlib
+scipy
