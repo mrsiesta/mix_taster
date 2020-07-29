@@ -1,9 +1,9 @@
 # Gonna need a few things for this all to work
 ffmpeg-python
+matplotlib
 numpy
 pydub
+requests
+scipy
 termcolor
 youtube-dl
-
-matplotlib
-scipy
